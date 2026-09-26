@@ -1,0 +1,17 @@
+﻿venv/
+__pycache__/
+*.pyc
+
+threat_intelligence.db
+threat_intelligence_backup.db
+
+output/
+reports/
+
+*.csv
+*.log
+main_backup.py
+main_step2_backup.py
+main_step3_backup.py
+main_step4_backup.py
+main_step5_backup.py

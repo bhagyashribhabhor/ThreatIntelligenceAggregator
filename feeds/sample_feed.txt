@@ -1,0 +1,9 @@
+# Sample Threat Intelligence Feed
+
+192.168.1.10
+45.33.32.156
+malicious-example.com
+evil-site.net
+http://malicious-example.com/login
+http://evil-site.net/payload
+5d41402abc4b2a76b9719d911017c592
